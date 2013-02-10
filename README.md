@@ -5,4 +5,4 @@ OSX non-indexed full text search of files supporting filters, regular expression
 
 Compatible OSX 10.8 or above
 
-VisualGrep is available on Mac App Store
+VisualGrep is available on [Mac App Store](http://appstore.com/mac/visualgrep)
